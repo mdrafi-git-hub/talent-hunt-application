@@ -9,7 +9,7 @@ import {
   UserIcon,
   BellIcon,
 } from "lucide-react";
-import { Card, CardContent } from "../components/ui/card";
+import { Card, CardContent } from "./UI/Card"
 import { motion } from "framer-motion";
 
 const services = [
