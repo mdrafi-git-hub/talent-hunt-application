@@ -17,7 +17,9 @@ import HowItWorks from "./Components/HowItWorks";
 import CertificateSection from "./Components/Certification";
 
 
-import Apply from "./Pages/apply";
+
+
+import Apply from './Pages/Apply';
 import Contact from "./Pages/Contact";
 
 const App = () => {
