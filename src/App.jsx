@@ -19,8 +19,11 @@ import CertificateSection from "./Components/Certification";
 
 
 
-import Apply from './Pages/Apply';
+
 import Contact from "./Pages/Contact";
+import Apply from "./Pages/Apply";
+
+
 
 const App = () => {
   
