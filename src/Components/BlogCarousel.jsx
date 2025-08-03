@@ -7,7 +7,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import softwareImage from "../assets/softwareDevelopment.jpg";
 import Marketing from "../assets/Marketing.webp";
 import Digital from "../assets/Digital.jpg";
-import Business from "../assets/business.png";
+import Business from "../assets/Business.png"
 
 gsap.registerPlugin(ScrollTrigger);
 
