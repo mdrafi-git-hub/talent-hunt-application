@@ -3,7 +3,8 @@ import React, { useRef, useEffect } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
-import softwareImage from "../assets/software Development.jpg";
+
+import softwareImage from "../assets/softwareDevelopment.jpg";
 import Marketing from "../assets/Marketing.webp";
 import Digital from "../assets/Digital.jpg";
 import Business from "../assets/business.png";
