@@ -9,7 +9,6 @@ import Pricess from "./Components/Pricess";
 import ChooseUs from "./Components/ChooseUs";
 import JoinUs from "./Components/JoinUs";
 import FAQComponent from "./Components/FAQComponent";
-import SideBarDashboard from "./Components/SideBarDashboard";
 import ReviewSection from "./Components/ReviewSection";
 import BlogCarousel from "./Components/BlogCarousel";
 import Footer from "./Components/Footer";
@@ -72,9 +71,6 @@ const App = () => {
                 <FAQComponent />
               </div>
 
-              <div id="dashboard">
-                {/* <SideBarDashboard /> */}
-              </div>
 
               <div id="reviews">
                 <ReviewSection />
